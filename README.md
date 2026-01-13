@@ -37,3 +37,13 @@ Using newer ProtocolLib versions on Java 8 **will cause class loading errors and
 - > ProtocolLib: latest stable
 - > Minecraft: 1.16 – 1.21
 
+COMMANDS
+commandlock reload Reloads the config.yml
+commandlock help Additional information
+commandlock info Retrieves information about the player, like the applied group and inherited groups
+commandlock updatecheck Checks updates
+PERMISSIONS
+commandlock.reload | Reloads the config.yml
+commandlock.group.<group> | To apply a specific group to an user
+commandlock.info
+commandlock.update
